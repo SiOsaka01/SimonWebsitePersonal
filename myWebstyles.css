@@ -1,0 +1,42 @@
+img {
+    border-radius: 50%;
+  }
+
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+  }
+
+  body{
+    background-color: rgb(130, 247, 182);
+    }
+
+  h1 {
+    text-align: center;
+  }
+
+  #myLinks{
+    padding: 10px;
+    text-align: center;
+}
+
+button{
+    border-radius: 12px;
+    background-image: linear-gradient(to right, rgb(6, 24, 1) , rgb(3, 110, 3), rgb(7, 247, 7));
+    color: rgb(85, 252, 149);
+    font-size: larger;
+}
+
+footer{
+       text-align: center;
+       color:darkgreen;
+}
+/* * {margin: 0; padding: 0;}
+body {background: black;}
+canvas {display: block;} */
+
+
+
+
